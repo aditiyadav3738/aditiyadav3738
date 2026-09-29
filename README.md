@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Aditi 👋
+
+ I'm a B.Tech student and developer passionate about turning ideas into clean, practical, and impactful software. I enjoy building useful projects, exploring new technologies, solving problems, and continuously improving my development skills.
+
+ 💻 Code | 🚀 Build | 📚 Learn | 🔧 Improve
+
+ 
 
 <!--
 **aditiyadav3738/aditiyadav3738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
